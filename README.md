@@ -1,27 +1,37 @@
-# Project-Name:- Hello-world
+📖 Hello_world
+
+This project has been built as a part of microverse training
 
 🛠 Built With
-html and css
 
-💻 Getting Started
+Html, Css.
 
-To get a local copy up and running, follow these steps.
+VsCode.
 
-Prerequisites
-In order to run this project you need:to get a copy of this project
+👥 Authors
 
-Setup
-Clone this repository to your desired folder:
+Saluma Hasan
 
-Install
-Install this project with:your favorite text editor
+GitHub: @githubhandle
 
-👤 Author:-
-GitHub: @saluumaa
+Twitter: @twitterhandle
+
+LinkedIn: LinkedIn
 
 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
 ⭐️ Show your support
-If you like this project you can contribute and give comments 
+
+If you like this project say nice thing to motivate me.
+
+🙏 Acknowledgments
+
+I would like to thank every one contributed the success of this project
+
+📝 License
+
+This project is MIT licensed.
