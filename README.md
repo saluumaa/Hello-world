@@ -1,8 +1,9 @@
-📖 Hello_world
+Hello_world
 
-This project has been built as a part of microverse training
+This project has been built as a part of microverse training  
 
-🛠 Built With
+
+Built With
 
 Html, Css.
 
@@ -26,7 +27,9 @@ Feel free to check the issues page.
 
 ⭐️ Show your support
 
-If you like this project say nice thing to motivate me.
+
+If you like this project say nice thing to motivate me. 
+
 
 🙏 Acknowledgments
 
