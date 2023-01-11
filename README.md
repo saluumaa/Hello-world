@@ -1,7 +1,6 @@
-Hello_world
+Hello_world Project
 
 This project has been built as a part of microverse training  
-
 
 Built With
 
@@ -13,11 +12,11 @@ VsCode.
 
 Saluma Hasan
 
-GitHub: @githubhandle
+GitHub: @saluumaa
 
-Twitter: @twitterhandle
+Twitter: @SalmaHIbrahim20
 
-LinkedIn: LinkedIn
+LinkedIn: salma ibrahim
 
 🤝 Contributing
 
@@ -27,9 +26,7 @@ Feel free to check the issues page.
 
 ⭐️ Show your support
 
-
 If you like this project say nice thing to motivate me. 
-
 
 🙏 Acknowledgments
 
