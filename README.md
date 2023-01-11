@@ -1,8 +1,8 @@
-📖 Hello_world
+Hello_world Project
 
 This project has been built as a part of microverse training  
 
-🛠 Built With
+Built With
 
 Html, Css.
 
@@ -12,11 +12,11 @@ VsCode.
 
 Saluma Hasan
 
-GitHub: @githubhandle
+GitHub: @saluumaa
 
-Twitter: @twitterhandle
+Twitter: @SalmaHIbrahim20
 
-LinkedIn: LinkedIn
+LinkedIn: salma ibrahim
 
 🤝 Contributing
 
